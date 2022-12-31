@@ -8,8 +8,11 @@ welcome people to the projest
 
 referr to [CONTRIBUTION.md](CONTRIBUTION.md) for explaining the contribultion of each person
 
-##usage
+## usage
+```sh
+./owlparser -i <input file> -o <output file>
 
+```
 ## sample
 
 
